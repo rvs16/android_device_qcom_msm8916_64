@@ -242,5 +242,3 @@ endif
 
 #enabling IMS for this target
 TARGET_USES_IMS := true
-
-BUILD_TINY_ANDROID := true
